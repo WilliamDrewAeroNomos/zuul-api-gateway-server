@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.in28minutes.rest.webservices.netflixzuulapigatewayserver;
+package com.governmentcio.rest.webservices.zuulapigatewayserver;
 
 import javax.servlet.http.HttpServletRequest;
 

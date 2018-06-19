@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.netflixzuulapigatewayserver;
+package com.governmentcio.rest.webservices.zuulapigatewayserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,10 +11,10 @@ import brave.sampler.Sampler;
 @EnableZuulProxy
 @EnableDiscoveryClient
 @SpringBootApplication
-public class NetflixZuulApiGatewayServerApplication {
+public class ZuulApiGatewayServerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NetflixZuulApiGatewayServerApplication.class, args);
+		SpringApplication.run(ZuulApiGatewayServerApplication.class, args);
 	}
 
 	@Bean

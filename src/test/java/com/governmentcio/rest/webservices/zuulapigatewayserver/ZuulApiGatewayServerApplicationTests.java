@@ -1,4 +1,4 @@
-package com.in28minutes.rest.webservices.netflixzuulapigatewayserver;
+package com.governmentcio.rest.webservices.zuulapigatewayserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class NetflixZuulApiGatewayServerApplicationTests {
+public class ZuulApiGatewayServerApplicationTests {
 
 	@Test
 	public void contextLoads() {

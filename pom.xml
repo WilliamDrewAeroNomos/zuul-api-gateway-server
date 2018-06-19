@@ -4,13 +4,13 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.in28minutes.rest.webservices</groupId>
-	<artifactId>netflix-zuul-api-gateway-server</artifactId>
+	<groupId>com.governmentcio.rest.webservices</groupId>
+	<artifactId>zuul-api-gateway-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>netflix-zuul-api-gateway-server</name>
-	<description>Demo project for Spring Boot</description>
+	<name>zuul-api-gateway-server</name>
+	<description>API gateway for all services.</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
